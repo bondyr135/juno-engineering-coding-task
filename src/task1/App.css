@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.stage {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img.slide {
+  width: 1000px;
+  height: 600px;
+  border-radius: 10px;
+}
